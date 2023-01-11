@@ -140,6 +140,24 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="section2-1.cpp" />
+    <ClCompile Include="section2-2.cpp" />
+    <ClCompile Include="section2-3.cpp" />
+    <ClCompile Include="section2-4.cpp" />
+    <ClCompile Include="section2-5.cpp" />
+    <ClCompile Include="section3-1.cpp" />
+    <ClCompile Include="section3-2.cpp" />
+    <ClCompile Include="section3-3.cpp" />
+    <ClCompile Include="section3-4.cpp" />
+    <ClCompile Include="section3-5.cpp" />
+    <ClCompile Include="section3-6.cpp" />
+    <ClCompile Include="section3-7.cpp" />
+    <ClCompile Include="section4-1.cpp" />
+    <ClCompile Include="section4-2.cpp" />
+    <ClCompile Include="section4-3.cpp" />
+    <ClCompile Include="section4-4.cpp" />
+    <ClCompile Include="section5-1.cpp" />
+    <ClCompile Include="section5-2.cpp" />
+    <ClCompile Include="section5-3.cpp" />
     <ClCompile Include="소스.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
